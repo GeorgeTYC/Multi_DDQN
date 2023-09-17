@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a2c28b4-0d9d-485e-a8b6-3046378b2dec" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Multi-DDQN" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2SNnjlQLkr5cSjxzXbLzpKHp8SN" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DDQN" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\projects\Multi-DDQN\Multi-DDQN-v1\utils" />
+      <recent name="E:\projects\Multi-DDQN\Multi-DDQN_v1" />
+      <recent name="E:\projects\Multi-DDQN\Multi-DDQN-v1" />
+      <recent name="E:\projects\Multi-DDQN\Multi-DDQN-v1\data" />
+      <recent name="E:\projects\Multi-DDQN\Multi-DDQN-v2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\projects\Multi-DDQN\Multi-DDQN-v1" />
+      <recent name="E:\projects\Multi-DDQN\Multi-DDQN-v1\src" />
+      <recent name="E:\projects\Multi-DDQN\Single-DDQN\utils\data" />
+      <recent name="E:\projects\Multi-DDQN\Single-DDQN\utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="VNFs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Multi-DDQN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Multi-DDQN-v1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Multi-DDQN-v1/VNFs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Multi-DDQN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Multi-DDQN-v1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Multi-DDQN-v1/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Multi-DDQN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot_v1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Multi-DDQN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Multi-DDQN-v1/pictures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Multi-DDQN-v1/pictures/plot_v1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.plot_v1" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.VNFs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a2c28b4-0d9d-485e-a8b6-3046378b2dec" name="Default Changelist" comment="" />
+      <created>1688996043320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688996043320</updated>
+      <workItem from="1688996044569" duration="661000" />
+      <workItem from="1689404451421" duration="13029000" />
+      <workItem from="1689490234562" duration="7399000" />
+      <workItem from="1690096374995" duration="5658000" />
+      <workItem from="1690201804570" duration="1107000" />
+      <workItem from="1690294493929" duration="3023000" />
+      <workItem from="1690379671384" duration="3400000" />
+      <workItem from="1690785775777" duration="12925000" />
+      <workItem from="1690896493974" duration="4428000" />
+      <workItem from="1691222703770" duration="8093000" />
+      <workItem from="1691309847440" duration="8222000" />
+      <workItem from="1691413947791" duration="1676000" />
+      <workItem from="1691503833833" duration="67000" />
+      <workItem from="1691503924958" duration="1146000" />
+      <workItem from="1691677302564" duration="2608000" />
+      <workItem from="1691815762712" duration="6647000" />
+      <workItem from="1691825155074" duration="1010000" />
+      <workItem from="1691826246889" duration="2560000" />
+      <workItem from="1691829657091" duration="1375000" />
+      <workItem from="1691902526886" duration="10405000" />
+      <workItem from="1692410878351" duration="1333000" />
+      <workItem from="1692519580917" duration="649000" />
+      <workItem from="1693038673769" duration="3710000" />
+      <workItem from="1693102404677" duration="4905000" />
+      <workItem from="1693121488580" duration="7703000" />
+      <workItem from="1693228487080" duration="1954000" />
+      <workItem from="1693317367360" duration="591000" />
+      <workItem from="1693404263868" duration="1659000" />
+      <workItem from="1693622485572" duration="3368000" />
+      <workItem from="1693637927174" duration="16000000" />
+      <workItem from="1693708430497" duration="27003000" />
+      <workItem from="1693814456216" duration="1953000" />
+      <workItem from="1693964089718" duration="3823000" />
+      <workItem from="1694052647288" duration="2719000" />
+      <workItem from="1694140884798" duration="2194000" />
+      <workItem from="1694160532762" duration="1360000" />
+      <workItem from="1694681552023" duration="1189000" />
+      <workItem from="1694695659037" duration="1278000" />
+      <workItem from="1694741256998" duration="10754000" />
+      <workItem from="1694786569420" duration="732000" />
+      <workItem from="1694830829999" duration="9938000" />
+      <workItem from="1694857857296" duration="10972000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Multi-DDQN-v1/utils/Rewards.py</url>
+          <line>134</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Multi-DDQN-v1/utils/DDQN.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Multi-DDQN-v1/utils/DDQN.py</url>
+          <line>119</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Multi-DDQN-v1/utils/DDQN.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Multi-DDQN-v1/utils/DDQN.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Multi-DDQN-v1/utils/DDQN.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Multi_DDQN$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1694932671088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Multi-DDQN-v1" />
+    <SUITE FILE_PATH="coverage/Multi_DDQN$plot_v1.coverage" NAME="plot_v1 Coverage Results" MODIFIED="1694915969759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Multi-DDQN-v1/pictures" />
+    <SUITE FILE_PATH="coverage/Multi_DDQN$main.coverage" NAME="main Coverage Results" MODIFIED="1693714134307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
+    <SUITE FILE_PATH="coverage/Multi_DDQN$VNFs.coverage" NAME="VNFs Coverage Results" MODIFIED="1691917477780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Multi-DDQN-v1" />
+  </component>
+</project>
